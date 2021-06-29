@@ -6,7 +6,7 @@ leixiaohua1020@126.com
 中国传媒大学/数字电视技术
 Communication University of China / Digital TV Technology
 http://blog.csdn.net/leixiaohua1020
-
+zhangsan
 
 本程序实现了视频文件的解码和显示（支持HEVC，H.264，MPEG2等）。
 是最简单的FFmpeg视频解码方面的教程。
