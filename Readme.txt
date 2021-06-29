@@ -7,6 +7,7 @@ leixiaohua1020@126.com
 Communication University of China / Digital TV Technology
 http://blog.csdn.net/leixiaohua1020
 
+ceshiyixa
 
 本程序实现了视频文件的解码和显示（支持HEVC，H.264，MPEG2等）。
 是最简单的FFmpeg视频解码方面的教程。
